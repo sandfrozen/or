@@ -1,0 +1,5 @@
+AB enter
+Proces 0 Start 100000000
+Proces 1 Start 100000000
+Proces 0 number odbicia: 100000000. Czas start: 4781.710417 Czas stop: 4871.333462
+Proces 1 number odbicia: 100000000. Czas start: 4781.710394 Czas stop: 4871.333461

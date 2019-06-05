@@ -1,0 +1,5 @@
+AB enter
+Proces 0 Start 10000
+Proces 1 Start 10000
+Proces 0 number odbicia: 10000. Czas: 4356.365604
+Proces 1 number odbicia: 10000. Czas: 4356.365602

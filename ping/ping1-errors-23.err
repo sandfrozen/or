@@ -1,0 +1,2 @@
+mpiexec: Forwarding signal 18 to job
+slurmstepd: *** JOB 23 ON n8 CANCELLED AT 2019-03-13T11:41:28 ***
